@@ -116,7 +116,7 @@ We , Atman, Laksh, Shreeya and Anushri, the creators of ConsumeWise are here to 
 Make informed decisions about what you eat and live a healthier lifestyle with ConsumeWise!
 
 - Laksh - [Laksh R Jain](https://www.linkedin.com/in/laksh-jain-6b308323b/)
-- Aatman - [Atman Pattanaik](https://www.linkedin.com/in/atman-pattanaik-558b06285/)
+- Atman - [Atman Pattanaik](https://www.linkedin.com/in/atman-pattanaik-558b06285/)
 - Shreeya - [Shreeya garg](http://www.linkedin.com/in/shreeyag)
 - Anushri - [Anushri Maheshwari](https://www.linkedin.com/in/anushri-maheshwari-453049285)
 
