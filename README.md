@@ -1,12 +1,11 @@
 <center>
-<img src="https://readme-typing-svg.herokuapp.com?color=FFADD8E6&size=40&width=900&height=80&lines=Welcome+to+ConsumeWise-AI-enabled Smart Label Reader" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFADD8E6&size=28&width=900&height=80&lines=Welcome+to+ConsumeWise+-+AI+enabled+Smart+Label+Reader" />
 </center>
-
 
 ## Table of Contents
 - [Introduction](#-introduction)
 - [Live Preview](#live-preview-)
-- [ConsumeWise Project](#intro-to-remembron-video)
+- [ConsumeWise Project](#intro-to-consumewise-video)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
 - [Key Features](#key-features)
@@ -27,7 +26,7 @@
 
 **Download the APK:**
 
-- [Remembron APK](https://mega.nz/file/cvE2SSLQ#hQPenYA7BY9XtALK44Imjn1-4bUoX3WhO1Lnbb0iXjo)
+- [ConsumeWise APK](https://drive.google.com/drive/folders/1s7f7yGHexUrN-YZzc8Z6EfoYOsmXB_op)
 
 
 
@@ -35,7 +34,7 @@
 
 ## Intro To ConsumeWise Video
 
-[Link to the Video]([https://youtu.be/YMt3jsQhpV4](https://drive.google.com/drive/folders/1A6E9R32dQRz6YzP1VufZBtwIsuFuHO6n))
+[Link to the Video](https://drive.google.com/drive/folders/1A6E9R32dQRz6YzP1VufZBtwIsuFuHO6n)
 
 
 
@@ -60,8 +59,8 @@ flutter run
   
 # Screenshots
 <pre>
-<img src = "" width = "250">  <img src = "https://github.com/Nikhil-1426/Remembron/blob/main/assets/SignUpPage.jpg" width = "250">  <img src = "https://github.com/Nikhil-1426/Remembron/blob/main/assets/HomePage.jpg" width = "250">
-<img src = "https://github.com/Nikhil-1426/Remembron/blob/main/assets/SettingsPage.jpg" width = "250">  <img src= "https://github.com/Nikhil-1426/Remembron/blob/main/assets/UserSetupPage.jpg" width = "250">  <img src = "https://github.com/Nikhil-1426/Remembron/blob/main/assets/GeoFencingPage.jpg" width = "250">
+<img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/home.jpg" width = "250">  <img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/recipe.jpg" width = "250">  <img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/imageCapture.jpg" width = "250">
+<img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/gemini.jpg" width = "250">  <img src= "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/barcode.jpg" width = "250">
 </pre>
 
 
@@ -119,7 +118,7 @@ Make informed decisions about what you eat and live a healthier lifestyle with 
 - Laksh - [Laksh R Jain](https://www.linkedin.com/in/laksh-jain-6b308323b/)
 - Aatman - [Atman Pattanaik](https://www.linkedin.com/in/atman-pattanaik-558b06285/)
 - Shreeya - [Shreeya garg](https://linkedin.com/in/arnav-parekar-b55786287/)
-- Anushree - [Anushree Maheshwarin](https://www.linkedin.com/in/anushri-maheshwari-453049285)
+- Anushri - [Anushri Maheshwari](https://www.linkedin.com/in/anushri-maheshwari-453049285)
 
 
 ## Happy coding 💯
