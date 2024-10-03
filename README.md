@@ -6,7 +6,7 @@
 - [Introduction](#-introduction)
 - [Live Preview](#live-preview-)
 - [ConsumeWise Project](#intro-to-consumewise-video)
-- [Getting Started](#getting-started)
+- [Setup](#setup)
 - [Screenshots](#screenshots)
 - [Key Features](#key-features)
 - [Additional Features](#additional-features)
@@ -38,7 +38,6 @@
 
 
 
-## Getting Started
 
 ## Setup:
 
@@ -59,8 +58,9 @@ flutter run
   
 # Screenshots
 <pre>
-<img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/home.jpg" width = "250">  <img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/recipe.jpg" width = "250">  <img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/imageCapture.jpg" width = "250">
-<img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/gemini.jpg" width = "250">  <img src= "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/barcode.jpg" width = "250">
+<img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/home.jpg" width = "250">  <img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/recipe.jpg" width = "250"> <img src = "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/gemini.jpg" width = "250">  
+  
+<img src= "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/barcode.jpg" width = "250">  <img src= "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/signup.jpg" width = "250">  <img src= "https://github.com/Weirdo2004/ConsumeWise/blob/master/assets/images/userinfo.jpg" width = "250">
 </pre>
 
 
@@ -117,7 +117,7 @@ Make informed decisions about what you eat and live a healthier lifestyle with 
 
 - Laksh - [Laksh R Jain](https://www.linkedin.com/in/laksh-jain-6b308323b/)
 - Aatman - [Atman Pattanaik](https://www.linkedin.com/in/atman-pattanaik-558b06285/)
-- Shreeya - [Shreeya garg](https://linkedin.com/in/arnav-parekar-b55786287/)
+- Shreeya - [Shreeya garg](http://www.linkedin.com/in/shreeyag)
 - Anushri - [Anushri Maheshwari](https://www.linkedin.com/in/anushri-maheshwari-453049285)
 
 
