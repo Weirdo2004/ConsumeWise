@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# gen_ai
+# ConsumeWise
 
 A new Flutter project.
 
