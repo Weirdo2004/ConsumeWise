@@ -13,7 +13,7 @@
 - [Tech Stack](#tech-stack)
 - [About Us](#about-us)
 
-## Remembron
+## ConsumeWise
 
 ## 💡 Introduction:
 
