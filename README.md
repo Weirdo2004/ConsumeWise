@@ -34,7 +34,7 @@
 
 ## Intro To ConsumeWise Video
 
-[Link to the Video](https://drive.google.com/drive/folders/1A6E9R32dQRz6YzP1VufZBtwIsuFuHO6n)
+- [Link to the Video](https://drive.google.com/drive/folders/1A6E9R32dQRz6YzP1VufZBtwIsuFuHO6n)
 
 
 
